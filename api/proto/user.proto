@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+package user;
+
+option go_package = "go-user-service/api/proto/userpb";
